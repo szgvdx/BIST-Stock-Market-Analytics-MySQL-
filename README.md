@@ -12,7 +12,6 @@ The dataset was obtained from Kaggle: BIST Banking Stocks
 It includes:
 - Daily trading records for major Turkish banks
 - OHLC pricing structure (Open, High, Low, Close)
-- Adjusted close values
 - Volume data
 - Pre-calculated daily returns
 
