@@ -13,7 +13,7 @@ It includes:
 - Daily trading records for major Turkish banks
 - OHLC pricing structure (Open, High, Low, Close)
 - Volume data
-- Pre-calculated daily returns
+- daily returns
 
 #### Dataset Highlights:
 - 11,250+ records
