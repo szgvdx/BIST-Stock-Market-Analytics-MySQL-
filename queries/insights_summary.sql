@@ -42,7 +42,7 @@ limit 5;
 
 -- extreme negative return days (risk events)
 select date, stock_name, 
-round(daily_return, 2)
+round(daily_return, 2) as daily_return
 from stocks
 where daily_return is not null
 order by daily_return asc
