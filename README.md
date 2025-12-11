@@ -44,7 +44,8 @@ Based on the CAGR results, Garanti BBVA stands out as the strongest performer an
 
 2. Highest Volatility Stocks (Annualized)
 
-<img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/344cef1a-c0c4-428a-b3bb-115b136b495e" />
+<img width="831" height="519" alt="image" src="https://github.com/user-attachments/assets/fe617745-464d-4ac0-96ce-3f8873a7a08c" />
+
 
 Based on the annualized volatility results, the five most volatile stocks are Sekerbank, T.S.K.B, YapÄ± Kredi, Halk BankasÄ±, and VakÄ±fbank. Their price movements are highly unstable, showing sharp daily fluctuations. This level of volatility often reflects factors such as strong market speculation, sensitivity to economic news, or high short-term trading activity. While high volatility can create opportunities for bigger gains, it also increases the risk of significant losses. Because of that, these stocks tend to be more suitable for aggressive investors who are focused on short-term momentum rather than long-term stability. They may work well for short-term trading strategies but are generally not ideal for passive long-term investors or anyone with a low risk tolerance. For those aiming for more stable growth, it’s advisable to combine volatility metrics with other indicators such as CAGR, trading volume trends, and moving average patterns before making decisions.
 
@@ -64,9 +65,11 @@ While high liquidity is a positive indicator, it doesn’t always mean the stock
 
 5. Extreme Negative Return Events
 
-<img width="975" height="574" alt="image" src="https://github.com/user-attachments/assets/eac184e0-4c57-4d2f-a6fe-670027a86364" />
+<img width="612" height="542" alt="image" src="https://github.com/user-attachments/assets/7616183e-ec93-4dcf-9057-47118a02402c" />
 
-The analysis of the worst daily returns reveals clear risk-event patterns across several stocks. Sekerbank, T.S.K.B., Akbank, Halk BankasÄ±, and YapÃ± Kredi all experienced sharp single-day drops of -10% or more, with the most extreme case being Sekerbank, which fell -20.83% on June 4, 2024. A drop of that size in just one day usually points to abnormal market conditions such as sudden negative sentiment, regulatory announcements, disappointing earnings, rumors, or panic selling. Stocks that frequently appear in these extreme drop lists, especially Sekerbank and T.S.K.B., tend to carry higher risk and require extra caution for anyone prioritizing portfolio stability. Identifying these extreme days helps flag stocks that are prone to unexpected volatility and serves as an important signal for risk management, especially for investors trying to avoid large drawdowns or those using stop-loss strategies.
+
+
+The analysis of the worst daily returns reveals clear risk-event patterns across several stocks. Sekerbank, T.S.K.B., Akbank, Halk BankasÄ±, and YapÃ± Kredi all experienced sharp single-day drops of -0.1% or more, with the most extreme case being Sekerbank, which fell -0.21% on June 4, 2024. A drop of that size in just one day usually points to abnormal market conditions such as sudden negative sentiment, regulatory announcements, disappointing earnings, rumors, or panic selling. Stocks that frequently appear in these extreme drop lists, especially Sekerbank and T.S.K.B., tend to carry higher risk and require extra caution for anyone prioritizing portfolio stability. Identifying these extreme days helps flag stocks that are prone to unexpected volatility and serves as an important signal for risk management, especially for investors trying to avoid large drawdowns or those using stop-loss strategies.
 
 These types of stocks may require tighter risk controls like stop-loss orders, smaller position sizes, or even hedging. Conservative investors may prefer stocks with fewer extreme downturns to maintain long-term stability. Meanwhile, short-term traders might see these volatile movements as opportunities for strategies such as mean reversion or volatility breakouts, depending on the market context.
 
