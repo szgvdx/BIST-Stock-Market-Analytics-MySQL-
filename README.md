@@ -65,7 +65,8 @@ While high liquidity is a positive indicator, it doesn’t always mean the stock
 
 5. Extreme Negative Return Events
 
-<img width="612" height="542" alt="image" src="https://github.com/user-attachments/assets/7616183e-ec93-4dcf-9057-47118a02402c" />
+<img width="995" height="537" alt="image" src="https://github.com/user-attachments/assets/4a8a3af3-b321-426d-88c9-b35b1f2cfb71" />
+
 
 
 
